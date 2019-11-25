@@ -1,0 +1,9 @@
+.idea
+**/target
+.DS_STORE
+.dev
+*.iml
+/pipeline/acceptance_test/docker-compose.yml
+**/report
+doc/result
+result
